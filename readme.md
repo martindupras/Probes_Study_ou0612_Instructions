@@ -4,7 +4,7 @@ Thanks for participating in my study.
 
 # Get PureData:
 
-Download PureData from [here](puredata.info/downloads)
+Download PureData from [here](puredata.info/downloads](https://puredata.info/downloads/pure-data)
 
 # Download the study files
 Download the study files from [here](https://github.com/martindupras/Probes_Study_ou0612). Click on th4 green "Code" button and choose "Download Zip". Unzip the file.
