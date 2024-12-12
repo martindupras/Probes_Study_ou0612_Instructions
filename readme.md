@@ -2,6 +2,10 @@
 
 Thanks for participating in my study.
 
+# Get the study files
+
+If you have not yet done so, download the [study files] (https://github.com/martindupras/Probes_Study_ou0612/tree/main).
+
 # Get PureData:
 
 Download PureData from [here](https://puredata.info/downloads/pure-data)
